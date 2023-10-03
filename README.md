@@ -1,4 +1,5 @@
 # Prédiction d'Indice Boursier et Stratégie de Trading
+
 ## Description
 
 Ce projet utilise des réseaux de neurones pour prédire les mouvements de l'indice boursier SP500.
@@ -62,6 +63,6 @@ yfinance, numpy, pandas, tensorflow, sklearn, seaborn, XGboost, SARIMA, keras, o
 
 Ce notebook est avant tout un challenge technique et ses résultats ne doivent pas être considéré comme un conseil financier ou une recommandation pour acheter ou vendre des actifs financiers. Investir en bourse comporte des risques et vous devriez consulter un conseiller financier professionnel avant de prendre toute décision d'investissement.
 
-Ce notebook possède quelques erreurs et approximations techniques connues (la plupart référencés dans la conclusion et perspectives d'évolution), cette notion est à prendre en compte lors de votre appréciation de ce code.
+Ce notebook possède quelques erreurs et approximations techniques connues (la plupart référencées dans la conclusion et perspectives d'évolution), cette notion est à prendre en compte lors de votre appréciation de ce code.
 
 Note importante : Les performances passées de ce modèle ne garantissent pas sa justesse pour les prédictions futures. Les marchés financiers sont influencés par une multitude de facteurs qui sont hors du contrôle de tout modèle prédictif. Utilisez les informations et la méthodologie de ce notebook à vos propres risques.
